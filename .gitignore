@@ -1,0 +1,11 @@
+# macOS 系统文件
+.DS_Store
+
+# Xcode / clang 调试符号包
+*.dSYM/
+
+# 编译产物
+a.out
+*.o
+
+# 说明：.vscode/ 有意保留，纳入版本控制
