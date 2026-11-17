@@ -1,0 +1,9 @@
+5 6
+inbox outbox add sub copyto copyfrom
+6
+inbox
+add 2
+sub -1
+add 9
+jump 3
+copyto 3
